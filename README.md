@@ -5,7 +5,7 @@ Fix this code to print `FizzBuzz` in number 15 instead of `Fizz`
 [source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py)
 
 ## 1-print_square.js
-`/1-print_square.js` 10 should print a square of size 10… [souce code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js)
+`/1-print_square.js` 10 should print a square of size 10… [source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/1-print_square.js)
 
 ## 2-sort.rb
 Please find here my implementation of sorting arguments in Ruby: [source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb)
