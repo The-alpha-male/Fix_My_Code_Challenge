@@ -15,3 +15,13 @@ But I don’t know why it’s not working…
 Could you look at it and fix it please?
 
 My code is [here](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge/tree/master/status_server/)
+
+## square.py
+Look [my square](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge/blob/master/square.py), it’s perfect? No? Should I change something?
+
+## 
+I’m running into a serious problem!
+
+I just start my OOP project and nothing works…
+
+Could you help me please? My code is [here](https://github.com/alx-tools/0x01-Fix_My_Code_Challenge/blob/master/user.py)
